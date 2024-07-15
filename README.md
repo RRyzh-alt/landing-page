@@ -1,1 +1,2 @@
-# landing-page
+This project will be the creation of a landing page. This will allow me to practice and put into use all of my previously learned html and css knowledge and practice correct syntax.
+By the end of this project I hope to be more comfortable bouncing between my css stylesheets and my html documents. This should also be a good environment for putting all of my flexbox skills to the test.
